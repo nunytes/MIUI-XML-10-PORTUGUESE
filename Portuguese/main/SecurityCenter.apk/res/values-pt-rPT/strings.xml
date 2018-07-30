@@ -290,7 +290,7 @@
   <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria chegar a %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
   <string name="auto_back_booster">Optimização parada</string>
-  <string name="auto_booster_suc">Optmizado com sucesso</string>
+  <string name="auto_booster_suc">Optimizado com sucesso</string>
   <string name="auto_clean_close">A limpeza automática está desligada</string>
   <string name="auto_handle_title">Geral</string>
   <string name="auto_import_games">Ponha todos os seus jogos num único sítio</string>
